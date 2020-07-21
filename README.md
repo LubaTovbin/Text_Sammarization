@@ -1,3 +1,3 @@
 July 20-21
-Ran fintuning on aeslc dataset. It took 47070 sec = 13 h to finitsh.
+Ran fine-tuning on aeslc dataset. It took 47070 sec = 13 h to finitsh.
 Loss for final step: 2.0601132
